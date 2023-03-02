@@ -26,10 +26,10 @@
     ".vscode",
     "[NODELETE] Stock Game",
     "metas",
-    "PyNVPatch.py",
     "Radiant Mojave.wabbajack",
     "Radiant Mojave.wabbajack.meta.json",
-    ".gitignore"
+    ".gitignore",
+    "mods\\[NODELETE] Patched Exe\\Root"
   ],
   "AlwaysEnabled": [],
   "Version": "0.0.1",
