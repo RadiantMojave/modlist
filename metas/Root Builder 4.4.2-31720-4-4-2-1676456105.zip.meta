@@ -1,16 +1,16 @@
 [General]
-gameName=skyrimse
+gameName=SkyrimSE
 modID=31720
-fileID=359652
+fileID=359947
 url=
-name=
-description=
-modName=
-version=0.0.0.0
+name=Root Builder 4.4.2
+description="Added a fix for mod names starting with 'Root'. Mods named 'Root' are still not allowed, but 'Root Files', 'Root foo bar' and so on are now possible. (Uploaded the right one this time)\n<br /><br />Fixed version number, sorry about that!"
+modName=Kezyma's Root Builder for Mod Organizer
+version=4.4.2.0
 newestVersion=0.0.0.0
 fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
-fileCategory=0
-category=0
+fileCategory=1
+category=39
 repository=Nexus
 userData=@Variant(\0\0\0\b\0\0\0\0)
 installed=true
